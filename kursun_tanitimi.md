@@ -14,7 +14,7 @@ Kursun ana odağını, UML dilinin notasyonu, uygulanması, dizayn prensipleri v
 
 6.	C++ veya C# biliyorum ama Android geliştiricisi olabilmek için Java öğrenmem gerekiyor. Ya da Java programcısıyım ama bir projede WCF ve C# kullanmam gerekli. Öte yandan temel düzeyde bir kurs alarak bildiğim konuları (döngü, karar yapıları, değişkenler vs) baştan öğrenmeye çalışarak zaman kaybetmeksizin ileri düzey örneklerle bu dilleri karşılaştırmalı nasıl öğrenebilirim?  
 
-## Eğitim Sırasında Takip Edilecek Basılı Kaynaklar
++ Eğitim Sırasında Takip Edilecek Basılı Kaynaklar
 
 Pek çok farklı basılı ve basılı olmayan kaynaklar önerilecek olmakla birlikte eğitmenin kendisine ait ve kurs akışıyla paralelliği nedeniyle aşağıdaki kitaplar takip edilecektir.
 
