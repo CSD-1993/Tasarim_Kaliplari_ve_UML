@@ -31,3 +31,6 @@ Pek çok farklı basılı ve basılı olmayan kaynaklar önerilecek olmakla birl
 ## Eğitmen : Aykut TAŞDELEN
 _2002_ yılından beridir sektörde eğitmenlik ve yazarlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler sektöründe faaliyet göstermektedir. _7_ yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek _12_ kitabı olan __Taşdelen__, geçmişte _7_ yıl _Microsoft_'tan üst üste _MVP_ ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan __Taşdelen__ geçmişte _PCWorld_ dergisinde yazarlık yapmış, halen ortağı olduğu __TeknolojiDergisi.net__ haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir.
 
+## Kursa Kayıt
+__[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/tJIvduugqD4vH9yl1_dPTNGkEAuq5yFhhkZQ)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
+
