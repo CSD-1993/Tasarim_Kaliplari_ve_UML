@@ -1,6 +1,6 @@
 ## Modül 1 : UML (Unified Modelling Language)
-1.1    : Modelleme Olgusu
-1.2    : Modelleme Dilleri
++ 1.1    : Modelleme Olgusu
++ 1.2    : Modelleme Dilleri
 1.3    : UML (Unified Modelling Language)
 1.3.1 : UML Standardizasyonu ve UML Versiyonları
 1.3.2 : UML Kullanımının Getirileri
