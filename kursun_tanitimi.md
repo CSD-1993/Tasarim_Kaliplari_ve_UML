@@ -14,18 +14,19 @@ Kursun ana odağını, UML dilinin notasyonu, uygulanması, dizayn prensipleri v
 
 6.	C++ veya C# biliyorum ama Android geliştiricisi olabilmek için Java öğrenmem gerekiyor. Ya da Java programcısıyım ama bir projede WCF ve C# kullanmam gerekli. Öte yandan temel düzeyde bir kurs alarak bildiğim konuları (döngü, karar yapıları, değişkenler vs) baştan öğrenmeye çalışarak zaman kaybetmeksizin ileri düzey örneklerle bu dilleri karşılaştırmalı nasıl öğrenebilirim?  
 
-Eğitim Sırasında Takip Edilecek Basılı Kaynaklar
+## Eğitim Sırasında Takip Edilecek Basılı Kaynaklar
 
 Pek çok farklı basılı ve basılı olmayan kaynaklar önerilecek olmakla birlikte eğitmenin kendisine ait ve kurs akışıyla paralelliği nedeniyle aşağıdaki kitaplar takip edilecektir.
 
 1.	UML ve (C++, Java ve C# ile) Dizayn Paternleri/Pusula Yayıncılık
 2.	UML ve (Swift ve Kotlin ile) Dizayn Paternleri/Pusula Yayıncılık
-Ön Koşul
-Bu kurs için katılımcıların (C#, Java, C++, Swift, Kotlin) gibi nesne yönelimlilik paradigmasını destekleyen bir dilde temel bilgilere sahip olmasını gerektirmektedir.
-Eğitim Süresi
-Eğitim Süresi 100 Saattir.
-Ders Saatleri
-Dersler X-Y günleri saat xx:xx-yy:yy saatleri arasında 4 ’er saat olarak (haftada n saat) yapılacaktır.
-Eğitmen
-Aykut TAŞDELEN 2002 yılından beridir sektörde eğitmenlik ve yazarlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler sektöründe faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir.
+
+## Ön Koşul
++ Bu kurs için katılımcıların __(C#, Java, C++, Swift, Kotlin)__ gibi nesne yönelimlilik paradigmasını destekleyen bir dilde temel bilgilere sahip olmasını gerektirmektedir.
+
+## Eğitim Süresi 100 Saattir.
+## Dersler X-Y günleri saat xx:xx-yy:yy saatleri arasında 4 ’er saat olarak (haftada n saat) yapılacaktır.
+
+## Eğitmen : Aykut TAŞDELEN
+2002 yılından beridir sektörde eğitmenlik ve yazarlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler sektöründe faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir.
 
