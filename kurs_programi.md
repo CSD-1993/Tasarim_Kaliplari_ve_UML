@@ -1,10 +1,10 @@
 ## Modül 1 : UML (Unified Modelling Language)
 + 1.1    : Modelleme Olgusu
 + 1.2    : Modelleme Dilleri
-1.3    : UML (Unified Modelling Language)
-1.3.1 : UML Standardizasyonu ve UML Versiyonları
-1.3.2 : UML Kullanımının Getirileri
-1.4    : UML Modelleri ve İlişkili Diyagramlar
++ 1.3    : UML (Unified Modelling Language)
+  + 1.3.1 : UML Standardizasyonu ve UML Versiyonları
+  + 1.3.2 : UML Kullanımının Getirileri
++ 1.4    : UML Modelleri ve İlişkili Diyagramlar
 1.5    : UML Destekli Tasarım Araçları
 1.6    : Constraint, TaggedValue ve Stereotype Kavramları 
 1.7    : Use Case (Kullanım Senaryosu) Diyagramları
