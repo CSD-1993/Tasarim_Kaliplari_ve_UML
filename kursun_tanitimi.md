@@ -28,6 +28,9 @@ Pek çok farklı basılı ve basılı olmayan kaynaklar önerilecek olmakla birl
 + Eğitim süresi toplem __100__ Saattir.
 + Dersler Salı ve Perşembe günleri __19:30 - 22:30__ saatleri arasında 3’er saat olarak (haftada 6 saat) yapılacaktır.
 
+## Kurs Ücreti
+Kursun toplam ücreti __2.400 TL__'dir. Öğrenci olanlar için kurs fiyatı _(öğrencilik durumunu belgelemeleri kaydıyla)_ __2.160 TL__'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
+
 ## Eğitmen : Aykut TAŞDELEN
 _2002_ yılından beridir sektörde eğitmenlik ve yazarlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler sektöründe faaliyet göstermektedir. _7_ yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek _12_ kitabı olan __Taşdelen__, geçmişte _7_ yıl _Microsoft_'tan üst üste _MVP_ ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan __Taşdelen__ geçmişte _PCWorld_ dergisinde yazarlık yapmış, halen ortağı olduğu __TeknolojiDergisi.net__ haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir.
 
