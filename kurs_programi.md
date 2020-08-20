@@ -1,5 +1,4 @@
-Modül 1 : UML (Unified Modelling Language)
-
+## Modül 1 : UML (Unified Modelling Language)
 1.1    : Modelleme Olgusu
 1.2    : Modelleme Dilleri
 1.3    : UML (Unified Modelling Language)
@@ -27,8 +26,7 @@ Modül 1 : UML (Unified Modelling Language)
 1.16    : Package (Paket) Diyagramları 
 1.17    : Deployment (Dağıtım) Diyagramları
 
-Modül 2 : Dizayn ve Paketleme Prensipleri
-
+## Modül 2 : Dizayn ve Paketleme Prensipleri
 2.1 : Dizayn Prensipleri
 2.1.1 : Ayrıştırma (Decomposition) 
 2.1.2 : Kohezyon (Yapışıklık)
@@ -49,13 +47,15 @@ Modül 2 : Dizayn ve Paketleme Prensipleri
 2.3.4 : ADP : Çevrimsiz Bağımlılık Prensibi (Acyclic Dependencies Principle)
 2.3.5 : SDP : Kararlı Bağımlılıklar Prensibi (Stable Dependencies Principle)
 2.3.6 : SAP : Kararlı Soyutlamalar Prensibi (Stable Abstractions Principle)
-Modül 3 : Dizayn Paternlere Giriş ve Temel Kavramlar
+
+## Modül 3 : Dizayn Paternlere Giriş ve Temel Kavramlar
 3.1 : Giriş
 3.2 : Patern Kümeleri (Pattern Cluster)
 3.3 : Idiom (Deyim) Kavramı ve Örnekleri
 3.4 : Anti-Patern (Karşıt Kalıp) Olgusu
 3.5 : GOF Sistematiği
-Modül 4 : Nesne Oluşturulmasına/Yaratılmasına Ait (Creational) Paternler
+
+## Modül 4 : Nesne Oluşturulmasına/Yaratılmasına Ait (Creational) Paternler
 
 4.1 : Singleton           
 4.2 : Factory Method / Virtual Constructor	
@@ -64,7 +64,7 @@ Modül 4 : Nesne Oluşturulmasına/Yaratılmasına Ait (Creational) Paternler
 4.5 : Builder 
 4.6 : Abstract Factory
 
-Modül 5 : Davranışsal (Behavioral) Paternler
+## Modül 5 : Davranışsal (Behavioral) Paternler
 
 5.1 : Iterator / Cursor
 5.2 : Observer / Publish Subscribe	
@@ -78,7 +78,7 @@ Modül 5 : Davranışsal (Behavioral) Paternler
 5.10 : Interpreter
 5.11 : Memento
 
-Modül 6 : Yapısal (Structural) Paternler
+## Modül 6 : Yapısal (Structural) Paternler
 6.1 : Decorator
 6.2 : Adapter / Wrapper
 6.3 : Facade
@@ -87,7 +87,7 @@ Modül 6 : Yapısal (Structural) Paternler
 6.6 : Compozite
 6.7 : Flyweight  
 
-Modül 7 : Yazılım Mimarisi ve Mimari Paternler
+## Modül 7 : Yazılım Mimarisi ve Mimari Paternler
 
 7.1 : Dependency Injection ve (IoC) Inversion of Control 
 7.2 : UI (User Interface) Patern’leri
@@ -106,7 +106,7 @@ Modül 7 : Yazılım Mimarisi ve Mimari Paternler
 7.15 : APM Patern’i
 7.16 : Service Locator Patern’i
 
-Modül 8 : Yazılım Geliştirme Sürecinin Modellenmesi 
+## Modül 8 : Yazılım Geliştirme Sürecinin Modellenmesi 
 
 8.1 : Proje Yönetiminin Temel Kavramları
 8.2 : Şelale (Waterfall) Yöntemi
