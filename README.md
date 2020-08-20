@@ -1,1 +1,1 @@
-# Tasarim_Kaliplari_ve_UML
+# Tasarım Kalıpları ve UML Kursu
