@@ -1,7 +1,7 @@
 # Tasarım Kalıpları ve UML Kursu
 
 + Kurs __C ve Sistem Programcıları Derneği__ tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
-+	Kurs __15 Eylül 2020__ Salı günü başlayacaktır.
++	Kurs __22 Eylül 2020__ Salı günü başlayacaktır.
 +	Kurs eğitmeni __Aykut Taşdelen__'dir.
 +	Kurs gerçek zamanlıdır. Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 +	Toplam kurs süresi __100__ saattir. 
