@@ -12,6 +12,6 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Tasarim_Kaliplari_ve_UML/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Tasarim_Kaliplari_ve_UML/blob/master/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Tasarim_Kaliplari_ve_UML/blob/master/sss.md)
-+ [Kursa Kayıt](https://zoom.us/meeting/register/tJIvduugqD4vH9yl1_dPTNGkEAuq5yFhhkZQ)
++ [Kursa Kayıt](https://us06web.zoom.us/meeting/register/tZUoce-vrD4uE9KrFKotb0DGFyLuDUQPc6w8)
 
 
